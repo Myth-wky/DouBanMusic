@@ -1,2 +1,4 @@
 # DouBanMusic
 豆瓣用户已听音乐查询，输出CSV文件
+请在Release中下载对应源码包
+输出文件在当前目录下的data文件夹下
